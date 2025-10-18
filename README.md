@@ -7,7 +7,7 @@ This repository contains a comprehensive analysis and prediction model for insur
 - `insurance_renewal_prediction_final.ipynb`: The main notebook containing all analysis, including:
   - Exploratory Data Analysis (EDA)
   - Feature Engineering
-  - Model Development (Logistic Regression, XGBoost, Neural Networks)
+  - Model Development (Logistic Regression, XGBoost, Neural Networks , TabNet)
   - Model Comparison and Evaluation
   - Visualizations and Interpretations
 
